@@ -68,7 +68,7 @@ I'm a Computer Science and Engineering graduate with a passion for problem-solvi
 - 📧 [Email](mailto:nurul.islam@nurulislam.dev)
 - 🌐 [Website](https://nurulislam.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nurul-islam-a7a545138/)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
+- 🐦 [Twitter](https://twitter.com/nurul_tipu01)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-islam01&layout=compact)
 
