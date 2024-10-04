@@ -1,6 +1,5 @@
 # Hi there, I'm [Nurul Islam] 👋
 
-![Profile Views]([https://komarev.com/ghpvc/?username=nurul-islam01&style=flat-square](https://nurulislam.dev))
 
 ## About Me
 
