@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Frontend Developer with a passion for building high-performance, responsive web applications. I specialize in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, ensuring pixel-perfect UI/UX and smooth user experiences. With 6 years of industry experience, I thrive in fast-paced environments and love solving complex UI challenges.
+I'm a Web and Android Developer with a passion for building high-performance, responsive applications. I specialize in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, and Android development using Java. I have experience in developing scalable web applications and mobile apps, ensuring smooth user experiences and performance optimization. Additionally, I have expertise in managing VPS web servers and cPanel. With 6 years of industry experience, I thrive in fast-paced environments and enjoy solving complex development challenges.
 
 ### Education
 
@@ -18,7 +18,7 @@ I'm a Frontend Developer with a passion for building high-performance, responsiv
 
 ### Experience
 
-- **Fullstack Developer**  
+- **Senior Fullstack Developer**  
   **Prothom Alo** (July 2021 – Present)  
   - Optimized project codebase for performance, scalability, and maintainability.
   - Built and optimized React applications for high-traffic sites.
@@ -55,17 +55,18 @@ I'm a Frontend Developer with a passion for building high-performance, responsiv
 - Progressive Web Apps (PWA), SEO Optimization
 
 #### Backend Development
-- Express.js, Node.js, RESTful APIs
+- Express.js, Node.js, Golang, RESTful APIs
 - Backend Caching, Redis, Docker
 
 #### Mobile Development
 - Java, Android Development
 
 #### Databases
-- SQL, MongoDB, Firebase
+- SQL, MongoDB, Firebase, PostgreSQL
 
 #### Tools & Platforms
 - Git, GitHub, GitHub CI/CD, CircleCI, AWS, Cloudflare
+- VPS Management, cPanel Administration
 
 #### Web Technologies
 - HTML5, CSS3, SCSS, SASS, Bootstrap, jQuery, Three.js
