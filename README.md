@@ -18,7 +18,7 @@ I'm a Frontend Developer with a passion for building high-performance, responsiv
 
 ### Experience
 
-- **Senior Fullstack Developer**  
+- **Fullstack Developer**  
   **Prothom Alo** (July 2021 – Present)  
   - Optimized project codebase for performance, scalability, and maintainability.
   - Built and optimized React applications for high-traffic sites.
