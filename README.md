@@ -1,73 +1,90 @@
-# Hi there, I'm [Nurul Islam] 👋
-
+# Hi there, I'm Nurul Islam 👋
 
 ## About Me
 
-I'm a Computer Science and Engineering graduate with a passion for problem-solving and innovation. With 6 years of job experience, I've honed my skills in creating cutting-edge solutions for real-world challenges.
+I'm a Frontend Developer with a passion for building high-performance, responsive web applications. I specialize in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, ensuring pixel-perfect UI/UX and smooth user experiences. With 6 years of industry experience, I thrive in fast-paced environments and love solving complex UI challenges.
 
 ### Education
 
-- **2017:** **Institute of Science and Technology** - Computer Science and Engineering
-  - Computer Science and Engineering graduate with a passion for problem-solving and innovation.
+- **Bachelor of Science in Computer Science & Engineering**  
+  **Institute of Science and Technology, Dhanmondi** (2017)  
+  - Focused on software development, problem-solving, and innovation.  
 
-- **2012:** **Altajar Rahman Degree College** - Higher Secondary Certificate
-  - Science graduate with a foundation in critical thinking to tackle challenges in diverse domains.
+- **Higher Secondary Certificate (Science)**  
+  **Altajar Rahman Degree College** (2012)  
 
-- **2010:** **Zangalia School and College** - Secondary School Certificate
-  - Completed SSC in Science, bringing over 10 years of experience, combining analytical skills with a strong scientific background.
+- **Secondary School Certificate (Science)**  
+  **Zangalia School and College** (2010)  
 
 ### Experience
 
-- **2021 - Present:** **Prothom Alo** - Senior Fullstack Developer
-  - Contributing as a Fullstack Developer, excited about dynamic projects and continuous growth in the tech landscape.
+- **Senior Fullstack Developer**  
+  **Prothom Alo** (July 2021 – Present)  
+  - Optimized project codebase for performance, scalability, and maintainability.
+  - Built and optimized React applications for high-traffic sites.
+  - Translated designs into pixel-perfect, responsive UIs using modern frontend technologies.
+  - Integrated Redux for efficient state management.
+  - Conducted code reviews to ensure high-quality, maintainable code.
 
-- **2019 - 2021:** **Nassa Group** - Web and Android App Developer
-  - Crafted digital solutions for a diverse range of platforms.
+- **Web and Android App Developer**  
+  **Nassa Group** (December 2019 – June 2021)  
+  - Developed multiple Android apps and web applications.
+  - Built ERP systems with React.js, Angular, and Express.js.
+  - Integrated REST APIs and optimized app performance.
+  - Ensured cross-platform compatibility and enhanced user experience.
 
-- **2018:** **Wizdoor** - Junior App Developer
-  - Worked on web and Android app development.
+- **Junior App Developer**  
+  **Wizdoor** (June 2019 – November 2019)  
+  - Developed Android applications focusing on performance and user experience.
+  - Built web applications with Angular, HTML, CSS, and JavaScript.
+  - Integrated REST APIs for seamless data communication.
 
 ### Certifications
 
-- **Creative IT - Web Development**
-  - Membership ID: SD-10397
-  - 19 April 2017
+- **Creative IT - Web Development**  
+  - Membership ID: SD-10397 (April 2017)
 
-- **BASIS**
-  - Membership ID: SD-10397
-  - 19 April 2018
-
+- **BASIS**  
+  - Membership ID: SD-10397 (April 2018)
 
 ### Skills
 
 #### Frontend Development
-- JavaScript, TypeScript, React, Next.js, Angular
-- React Isomorphic, Redux, Material Design, Tailwind CSS
-- Micro Services, ReduxThunk, Progressive Web Apps
-- Frontend Caching, Offline Capabilities, SEO, GraphQL
+- JavaScript, TypeScript, React.js, Next.js, Angular
+- Redux, React Query, Material UI, Tailwind CSS
+- Progressive Web Apps (PWA), SEO Optimization
 
 #### Backend Development
-- Express, RESTful API, Backend Caching
-- Push Notification, Redis, Docker
-
-#### Tools & Platforms
-- GitHub, GitHub CI/CD, CircleCI
+- Express.js, Node.js, RESTful APIs
+- Backend Caching, Redis, Docker
 
 #### Mobile Development
-- Java, Android
+- Java, Android Development
 
 #### Databases
 - SQL, MongoDB, Firebase
 
+#### Tools & Platforms
+- Git, GitHub, GitHub CI/CD, CircleCI, AWS, Cloudflare
+
 #### Web Technologies
-- HTML5, CSS, SCSS, SASS, Bootstrap, jQuery, Three.js
+- HTML5, CSS3, SCSS, SASS, Bootstrap, jQuery, Three.js
+
+### Technologies Utilized
+- Google Analytics GA4, Chartbeat, Google Tag Manager
+- Google Publisher Tag, DFP, Loadable-Components
+- Amazon S3, CDN, Cloudflare
+
+### Awards & Achievements
+- **Prothom Alo Best Employee Award - 2023**
 
 ### Get in Touch
 
-- 📧 [Email](mailto:nurul.islam@nurulislam.dev)
+- 📧 [Email](mailto:nurul.islam3f@gmail.com)
 - 🌐 [Website](https://nurulislam.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nurul-islam-a7a545138/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nurul-islam01/)
 - 🐦 [Twitter](https://twitter.com/nurul_tipu01)
+- 📂 [GitHub](https://github.com/nurul-islam01)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-islam01&layout=compact)
 
@@ -75,20 +92,4 @@ I'm a Computer Science and Engineering graduate with a passion for problem-solvi
 
 ---
 
-**Let's connect and create something amazing together!**
-
-
-<!--
-**nurul-islam01/nurul-islam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's connect and build amazing things together!**
