@@ -7,7 +7,7 @@ I'm a Web and Android Developer with a passion for building high-performance, re
 ### Education
 
 - **Bachelor of Science in Computer Science & Engineering**  
-  **Institute of Science and Technology, Dhanmondi** (2017)  
+  **Institute of Science and Technology, Dhanmondi** (2017)
   - Focused on software development, problem-solving, and innovation.  
 
 - **Higher Secondary Certificate (Science)**  
@@ -50,19 +50,19 @@ I'm a Web and Android Developer with a passion for building high-performance, re
 ### Skills
 
 #### Frontend Development
-- JavaScript, TypeScript, React.js, Next.js, Angular
-- Redux, React Query, Material UI, Tailwind CSS
+- JavaScript, TypeScript, React.js, Next.js, Angular, Webpack, SWC
+- Redux, Redux Toolkit, React Query, Material UI, Tailwind CSS, SASS, CSSS
 - Progressive Web Apps (PWA), SEO Optimization
 
 #### Backend Development
-- Express.js, Node.js, Golang, RESTful APIs
+- Express.js, Node.js, Golang, RESTful APIs, GraphQL, Prisma, Nest.js
 - Backend Caching, Redis, Docker
 
 #### Mobile Development
 - Java, Android Development
 
 #### Databases
-- SQL, MongoDB, Firebase, PostgreSQL
+- SQL, PostgreSQL, MySQL, Sqlite, MongoDB, Firebase
 
 #### Tools & Platforms
 - Git, GitHub, GitHub CI/CD, CircleCI, AWS, Cloudflare
@@ -72,7 +72,7 @@ I'm a Web and Android Developer with a passion for building high-performance, re
 - HTML5, CSS3, SCSS, SASS, Bootstrap, jQuery, Three.js
 
 ### Technologies Utilized
-- Google Analytics GA4, Chartbeat, Google Tag Manager
+- Google Analytics GA4, Chartbeat, Google Tag Manager, Google Map, Google API, Push Notifications
 - Google Publisher Tag, DFP, Loadable-Components
 - Amazon S3, CDN, Cloudflare
 
