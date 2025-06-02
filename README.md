@@ -50,8 +50,8 @@ I'm a Web and Android Developer with a passion for building high-performance, re
 ### Skills
 
 #### Frontend Development
-- JavaScript, TypeScript, React.js, Next.js, Angular, Webpack, SWC
-- Redux, Redux Toolkit, React Query, Material UI, Tailwind CSS, SASS, CSSS
+- JavaScript, TypeScript, React.js, Next.js, Angular, Webpack expert, SWC
+- Redux, Redux Toolkit, React Query, Material UI, Shadcn, Tailwind CSS, Bootstrap SASS, CSS
 - Progressive Web Apps (PWA), SEO Optimization
 
 #### Backend Development
