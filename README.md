@@ -13,7 +13,7 @@ Full Stack Developer with **7+ years** of experience building scalable web appli
 
 Deep expertise in **React, Next.js, Node.js, and Go**, with hands-on experience in **Linux server administration, CI/CD pipelines, and enterprise CMS platforms** (Quintype/Bold/Malibu). Recipient of the **Prothom Alo Best Employee Award 2023**.
 
-🌐 **Portfolio:** [nurul.com.bd](https://nurul.com.bd) · [nurul.dev](https://nurul.dev)
+🌐 **Portfolio:** [nurul.com.bd](https://nurul.com.bd) 
 
 ---
 
