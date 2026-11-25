@@ -86,7 +86,7 @@ featured/
 
 - **B.Sc. in Computer Science & Engineering** — Institute of Science and Technology, Dhanmondi _(2016)_
 - **HSC (Science)** — Altazer Rahaman College, Bhola _(2012)_
-- **SSC (Science)** — Charjangalia Secondary School, Bhola _(2010)_
+- **SSC (Science)** — Jangalia School and College, Bhola _(2010)_
 
 ---
 
