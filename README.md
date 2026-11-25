@@ -21,8 +21,8 @@ Deep expertise in **React, Next.js, Node.js, and Go**, with hands-on experience 
 
 ```
 * a1b2c3d (HEAD -> main)  Deputy Manager & Tech Lead — Navana Group        Jul 2025 – Present
-* e4f5g6h                 Web Developer — Prothom Alo                       Jul 2021 – Jun 2025
-* i7j8k9l                 Executive (Developer) — Nassa Group               Nov 2019 – Jun 2021
+* e4f5g6h                 Software Engineer — Prothom Alo                   Jul 2021 – Jun 2025
+* i7j8k9l                 Software Engineer — Nassa Group                   Dec 2019 – Jun 2021
 * m0n1o2p                 App Developer — Wizdoor                           Jun 2019 – Nov 2019
 ```
 
@@ -33,14 +33,14 @@ Deep expertise in **React, Next.js, Node.js, and Go**, with hands-on experience 
 - Set up CI/CD pipelines, systemd services, Apache reverse proxy configurations, and CSF firewall hardening.
 - Drive engineering best practices, code reviews, and technical decision-making across the team.
 
-#### **Web Developer** — Prothom Alo _(Jul 2021 – Jun 2025)_
-- Developed and maintained web products for Bangladesh's **largest circulated newspaper** using Quintype/Bold CMS and Malibu framework — serving **6.6M+ daily readers**.
+#### **Software Engineer** — Prothom Alo _(Jul 2021 – Jun 2025)_
+- Developed and maintained web products for Bangladesh's **largest circulated newspaper** using Quintype/Bold CMS and Malibu framework — a news platform with **10M+ monthly online users**.
 - Built performant frontend experiences with React and Next.js, optimizing for SEO and Core Web Vitals.
 - Implemented SSR pipelines and custom Node.js services integrated with the Quintype API ecosystem.
 - Worked with GA4, Chartbeat, Google Publisher Tag, DFP, Cloudflare, AWS S3, and CDN integrations.
 - 🏆 **Prothom Alo Best Employee Award 2023**
 
-#### **Executive (Developer)** — Nassa Group _(Nov 2019 – Jun 2021)_
+#### **Software Engineer** — Nassa Group _(Dec 2019 – Jun 2021)_
 - Developed 5+ Android apps (Java) and 4+ web applications using Angular, React, and Express.js.
 - Contributed to ERP system development integrating HR, operations, and business management features.
 
@@ -56,9 +56,9 @@ featured/
 ├── navana-group/
 │   ├── navana.com                    → Corporate site for one of Bangladesh's largest conglomerates
 │   ├── navanarealestate.com          → Property portfolio and project showcase
-│   └── gloriajeans.com.bd            → Bangladesh franchise site for the global coffee brand
+│   └── gloriajeanscoffeesbd.com      → Bangladesh franchise site for the global coffee brand
 └── prothom-alo/
-    ├── prothomalo.com                → Bangladesh's largest newspaper (6.6M+ daily readers)
+    ├── prothomalo.com                → Bangladesh's most-read daily (10M+ monthly online users)
     ├── kishoralo.com                 → Children's & teens magazine
     ├── bigganchinta.com              → Leading popular-science magazine
     └── bondhushava.com               → Community platform & friendship-circle magazine
@@ -85,7 +85,7 @@ featured/
 ### `~/education $ cat degrees.txt`
 
 - **B.Sc. in Computer Science & Engineering** — Institute of Science and Technology, Dhanmondi _(2016)_
-- **HSC (Science)** — Altaxer Rahaman College, Bhola _(2012)_
+- **HSC (Science)** — Altazer Rahaman College, Bhola _(2012)_
 - **SSC (Science)** — Charjangalia Secondary School, Bhola _(2010)_
 
 ---
@@ -94,6 +94,7 @@ featured/
 
 - 🏆 **Prothom Alo Best Employee Award** — 2023
 - 🚀 **NASA Space Apps Challenge** — 2014
+- 📜 **Mobile Application Development (Android)** — BITM certification, 2018
 - 👥 Member, University Computer Programming Club (PcIST)
 - 🚒 Fire Fighting, Fire Prevention, Rescue and First Aid Training — Fire Service & Civil Defence Directorate
 
